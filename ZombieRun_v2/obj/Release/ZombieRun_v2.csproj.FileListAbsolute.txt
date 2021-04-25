@@ -1,0 +1,6 @@
+C:\Users\giuseppe\Desktop\c#\ZombieRun_v2\ZombieRun_v2\bin\Release\ZombieRun_v2.exe.config
+C:\Users\giuseppe\Desktop\c#\ZombieRun_v2\ZombieRun_v2\bin\Release\ZombieRun_v2.exe
+C:\Users\giuseppe\Desktop\c#\ZombieRun_v2\ZombieRun_v2\bin\Release\ZombieRun_v2.pdb
+C:\Users\giuseppe\Desktop\c#\ZombieRun_v2\ZombieRun_v2\obj\Release\ZombieRun_v2.csproj.CoreCompileInputs.cache
+C:\Users\giuseppe\Desktop\c#\ZombieRun_v2\ZombieRun_v2\obj\Release\ZombieRun_v2.exe
+C:\Users\giuseppe\Desktop\c#\ZombieRun_v2\ZombieRun_v2\obj\Release\ZombieRun_v2.pdb
